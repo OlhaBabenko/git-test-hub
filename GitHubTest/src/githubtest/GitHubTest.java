@@ -17,7 +17,6 @@ public class GitHubTest {
     public static void main(String[] args) {
         System.out.println("Ta-da-dam!");
         System.out.println("Change in GetHub!");
-        System.out.println("Test Ferch!");
     }
 
 }
